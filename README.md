@@ -89,12 +89,14 @@ Key Features
 Residual Connections: Efficient training for deep networks.
 Data Augmentation: Enhanced robustness.
 Lightweight Design: Suitable for deployment in resource-constrained environments.
-Future Work
+
+#Future Work
 Improved Dataset Diversity: Use GANs for synthetic data generation.
 Explainability Tools: Integrate Grad-CAM for interpretability.
 Hybrid Architectures: Combine CNNs with transformers for enhanced accuracy.
 Semi-Supervised Learning: Leverage unlabeled data for improved performance.
-References
+
+#References
 Deep Residual Learning for Image Recognition
 DropBlock: A Regularization Method for CNNs
 An Image is Worth 16x16 Words: Transformers for Image Recognition
